@@ -1,1 +1,2 @@
 # simpleVuexDemo
+# $ npm install
